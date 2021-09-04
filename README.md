@@ -10,22 +10,22 @@
 **IzumiShaka-desu/IzumiShaka-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on mobile development
 - 🌱 Learning Dart, 💙 Flutter, Kotlin, IoT and Tensorflow
-- 👯 I’m looking to collaborate on flutter
-- 🤔 I’m looking for help with job
 - 💬 Ask me about anything
 - 📫 How to reach me : [Telegram](https://t.me/shakaAji)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-</p>
+##skills deck:
+programming language : dart, python, php, kotlin, java, javacript.
+framework :  💙flutter, flask, codeigniter, tensorflow.
+database : firebase, supabase, mysql.
 
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzumiShaka-desu&count_private=true&show_icons=true&hide_border=false" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzumiShaka-desu&count_private=true&hide=javascript,html,php&show_icons=true&hide_border=false" />
-</p>
+- ⚡ github trophy
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=IzumiShaka-desu" />
 </br>
 </br>
