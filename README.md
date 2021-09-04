@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ##skills deck:
-programming language : dart, python, php, kotlin, java, javacript.
-framework :  💙flutter, flask, codeigniter, tensorflow.
-database : firebase, supabase, mysql.
+- programming language : dart, python, php, kotlin, java, javacript.
+- framework :  💙flutter, flask, codeigniter, tensorflow.
+- database : firebase, supabase, mysql.
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzumiShaka-desu&count_private=true&show_icons=true&hide_border=false" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzumiShaka-desu&count_private=true&hide=javascript,html,php&show_icons=true&hide_border=false" />
