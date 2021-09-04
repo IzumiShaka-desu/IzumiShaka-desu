@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-##skills deck:
+###skills deck:
 - programming language : dart, python, php, kotlin, java, javacript.
 - framework :  💙flutter, flask, codeigniter, tensorflow.
 - database : firebase, supabase, mysql.
