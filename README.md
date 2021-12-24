@@ -12,14 +12,14 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on mobile development
-- 🌱 Learning Dart, 💙 Flutter, Kotlin, IoT and Tensorflow
+- 🌱 Learning Dart, 💙 Flutter, Kotlin, Swift, IoT and Tensorflow
 - 💬 Ask me about anything
 - 📫 How to reach me : [Telegram](https://t.me/shakaAji)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ## skills deck (most used):
-- programming language : dart, python, php, kotlin, java, javacript.
+- programming language : dart, python, php, kotlin, java, javacript, swift.
 - framework :  💙flutter, flask, codeigniter, tensorflow.
 - database : firebase, supabase, mysql.
 
