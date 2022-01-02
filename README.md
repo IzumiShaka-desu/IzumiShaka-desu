@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzumiShaka-desu&count_private=true&show_icons=true&hide_border=false" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzumiShaka-desu&count_private=true&hide=javascript,html,php&show_icons=true&hide_border=false" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IzumiShaka-desu&theme=react-dark" />
 - ⚡ github trophy
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=IzumiShaka-desu" />
 </br>
