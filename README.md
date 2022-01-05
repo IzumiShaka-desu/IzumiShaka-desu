@@ -11,6 +11,7 @@
 i like coding,i love mobile programming,very enthausiast to artificial intelegence,flutter, kotlin,and tech. i like  reading and watching anime and movies.
 Here are some ideas to get you started:
 -->
+i like coding,i love mobile programming,very enthausiast to artificial intelegence,flutter, kotlin,and tech. i like reading and watching anime and movies.
 - 🔭 I’m currently working on mobile development
 - 🌱 Learning Dart, 💙 Flutter, Kotlin, Swift, IoT and Tensorflow
 - 💬 Ask me about anything
