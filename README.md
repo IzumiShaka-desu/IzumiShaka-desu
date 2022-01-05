@@ -8,7 +8,7 @@
 
 <!--
 **IzumiShaka-desu/IzumiShaka-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+i like coding,i love mobile programming,very enthausiast to artificial intelegence,flutter, kotlin,and tech. i like  reading and watching anime and movies.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on mobile development
