@@ -8,14 +8,13 @@
 
 <!--
 **IzumiShaka-desu/IzumiShaka-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-i like coding,i love mobile programming,very enthausiast flutter, kotlin,and tech. i like  reading and watching anime and movies.
+i like coding,i love mobile programming,very enthausiast flutter, kotlin,and tech. i like  reading and watching anime and movies. recently I participate as an external code reviewer on dicoding and as a facilitator on IDCAMP and DTS ProA.
 Here are some ideas to get you started:
 -->
 i like coding,i love mobile programming,very enthausiast to artificial intelegence,flutter, kotlin,and tech. i like reading and watching anime and movies.
 - 🔭 I’m currently working on mobile development
 - 🌱 Learning Dart, 💙 Flutter, Kotlin, Swift, IoT and Tensorflow
 - 💬 Ask me about anything
-- 📫 How to reach me : [Telegram](https://t.me/shakaAji)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
