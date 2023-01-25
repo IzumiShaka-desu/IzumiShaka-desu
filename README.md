@@ -20,7 +20,8 @@ i like coding,i love mobile programming,very enthausiast to flutter, kotlin,and 
 
 ## skills deck (most used):
 - programming language : dart, python, php, kotlin, java, javacript, swift.
-- framework :  💙flutter, flask, codeigniter, tensorflow.
+- framework :  💙flutter, flask, hapi.js, express.js, codeigniter, tensorflow.
+- android specific :  kotlin-flow, hilt-dagger,retrofit, compose.
 - database : firebase, supabase, mysql.
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzumiShaka-desu&count_private=true&show_icons=true&hide_border=false" />
